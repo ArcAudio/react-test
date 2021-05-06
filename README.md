@@ -1,4 +1,7 @@
 # react-test
+
+to the the live page here: https://arcaudio.github.io/react-test/
+
 test with mashing different bits of tech together
 
 If you're reading this you're probably wondering how I made this. 
